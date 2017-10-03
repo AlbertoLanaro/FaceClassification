@@ -5,4 +5,4 @@
 	- After the training face the newtork can be tested in real time using the script "real_time_face_classification.py"
 	- The code can handle multiple face classification (see sample below)
 
-![alt text](screenshots/example.png "Real-time multiple face classification example")
+![Alt text](screenshots/example.png?raw=true "Real-time multiple face classification example")
